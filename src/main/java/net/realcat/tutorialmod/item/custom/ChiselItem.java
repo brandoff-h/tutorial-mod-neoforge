@@ -16,7 +16,7 @@ import net.realcat.tutorialmod.block.ModBlocks;
 
 import java.util.Map;
 
-// control h on Item to see vanilla items
+// control h on Item to see vanilla items, command left click to open item class
 public class ChiselItem extends Item {
     private static final Map<Block, Block> CHISEL_MAP =
             Map.of(
